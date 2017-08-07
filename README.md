@@ -1,3 +1,3 @@
 # AWS-Alexa-Skills
 
-1.SpaceGeek : A simple skill that responds to the user with a space fact.
+- [SpaceGeek](samples/spaceGeek) : A simple skill that responds to the user with a space fact.
